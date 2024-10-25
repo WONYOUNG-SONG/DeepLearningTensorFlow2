@@ -22,4 +22,4 @@ This repository contains:
 ## Requirements
 - Python 3.x
 - TensorFlow 2.x
-- Jupyter (optional, for running the notebooks)
+- Jupyter
