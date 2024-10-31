@@ -12,7 +12,8 @@ This repository contains:
 - **Experiment results** and **visualizations** of various deep learning models.
 
 ## Key Topics Covered
-- Neural Networks from Scratch
+- Basic DeepLearning
+- Neural Networks
 - Convolutional Neural Networks (CNNs)
 - Recurrent Neural Networks (RNNs)
 - Training and optimization techniques
